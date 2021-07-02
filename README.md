@@ -111,7 +111,7 @@ sudo apt install pipenv
 export KOLIBRI_RUN_MODE="dev"
 </pre>
 
-<p>Guardamos los cambios y en la terminal dentro de la directorio kolibri ejecutamos el siguiente comando para arrancar el entorno virtual con pipenv:</p>
+<p>Guardamos los cambios y en la terminal dentro del directorio kolibri ejecutamos el siguiente comando para arrancar el entorno virtual con pipenv:</p>
 
 <pre style="color: rgb(133, 194, 174);">
 pipenv shell
@@ -152,7 +152,7 @@ nvm use 10.15.3
 
 <h2><b>Paso siete:</b></h2>
 
-<p>Ya con nuestro entorno virtualizado, avancemos a isntalar las dependencias con los siguientes comandos:</p>
+<p>Ya con nuestro entorno virtualizado, avancemos a instalar las dependencias con los siguientes comandos:</p>
 
 <pre style="color: rgb(133, 194, 174);">
 pip install -r requirements.txt --upgrade
