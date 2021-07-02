@@ -49,7 +49,7 @@ cd ~/.ssh
 <pre style="color: rgb(133, 194, 174);">
 cat id_rsa.pub
 </pre>
-<p>Copian lo que les imprime con eso crean la SSH en GitHub.</p>
+<p>Copian lo que les imprime y con eso crean la SSH en GitHub.</p>
 
 <br>
 <hr>
