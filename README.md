@@ -56,7 +56,7 @@ cat id_rsa.pub
 
 <h2><b>Paso tres:</b></h2>
 
-<p>Ya con la SSH creada copiamos en repositorio de Kolibri con el siguente comando donde queramos crear la carpeta:</p>
+<p>Ya con la SSH vamos al directorio donde queramos clonar el proyecto y ejecutamos en siguiente comando:</p>
 
 <pre style="color: rgb(133, 194, 174);">
 git clone git@github.com:$USERNAME/kolibri.git
